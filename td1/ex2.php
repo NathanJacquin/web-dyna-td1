@@ -23,7 +23,8 @@ $color = $_GET["color"];
 $message = $_GET["message"];
 echo $message ?>
 <div style=
-"font-size : <?php echo $size; ?>px; color : <?php echo $color; ?>">
+"font-size : <?php echo $size ?>px; color : <?php echo $color ?>">
 </div>
 </body>
+</html>
 </html>
